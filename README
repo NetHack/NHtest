@@ -4,6 +4,14 @@ testing, testing.
 
 lines added in master...
 ...in branch...
-...while feature branch outside
-...to create conflicts...
+
+//<<<<<<< HEAD
+//...while feature branch outside
+//...to create conflicts...
+//=======
+//...in feature branch
+//...which will conflict with other branch
+//>>>>>>> derekfeature
+
+leaving conflict in place but nudged aside for reference
 
